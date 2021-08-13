@@ -1,2 +1,2 @@
 # HandsOnSpring
-sample spring based projects
+GitHub repository for sample spring based projects development
