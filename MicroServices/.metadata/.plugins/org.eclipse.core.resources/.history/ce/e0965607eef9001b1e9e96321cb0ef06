@@ -1,0 +1,5 @@
+package io.raman.model;
+
+public class Organization {
+
+}

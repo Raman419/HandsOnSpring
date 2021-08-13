@@ -1,0 +1,14 @@
+package io.raman.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class OrganizationController {
+	
+	
+	
+	public Organization getOrganizationDetails() {
+		return null;
+	}
+
+}

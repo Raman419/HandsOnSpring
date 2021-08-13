@@ -1,0 +1,19 @@
+package io.raman.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import io.raman.model.Organization;
+import io.raman.service.OrganizationService;
+
+@RestController
+public class OrganizationController {
+	
+	@Autowired
+	private OrganizationService organizationService;
+	
+	public Organization getOrganizationDetails() {
+		return null;
+	}
+
+}

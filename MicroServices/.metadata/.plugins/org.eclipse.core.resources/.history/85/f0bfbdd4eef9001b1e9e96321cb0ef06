@@ -1,0 +1,14 @@
+package io.raman.service;
+
+import org.springframework.stereotype.Service;
+
+import io.raman.model.Organization;
+
+@Service
+public class OrganizationService {
+
+	public Organization getOrganizationDetails(String empid) {
+		return null;
+	}
+
+}

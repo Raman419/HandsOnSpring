@@ -1,0 +1,9 @@
+package io.raman.model;
+
+public class Employee {
+	
+	private String empid;
+	private Address address;
+	private Organization organization;
+
+}
